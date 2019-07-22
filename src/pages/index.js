@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 // ---------- Themes colors ----------
 import "../themes/green.scss"
-import "../themes/orange.scss"
+// import "../themes/orange.scss"
 
 import Hero from "../components/hero"
 import Layout from "../components/layout"
