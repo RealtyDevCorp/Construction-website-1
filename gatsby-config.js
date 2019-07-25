@@ -3,7 +3,7 @@ module.exports = {
     title: `RMMC & RDC`,
     fullTitle: `RM Mangubat Construction & Realty Development Corporation`,
     description: `Engaged in Site Developing, General Building Constructions, Repair/Renovation of Buildings, etc.`,
-    about: `Since our incorporation in 1981, we've grown from a regional organization to a multi-faceted, national presence in the industry with headquarters in New York.`,
+    about: `We're (A CORPORATION) has been a transition of a sole proprietorship owned and operated by DR. RICHARD MANGUBAT of R.M. MANGUBAT CONSTRUCTION in Year 2015.`,
     email: `rmmangubat1@gmail.com`,
 
     author: {
