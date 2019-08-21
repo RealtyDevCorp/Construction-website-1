@@ -5,6 +5,18 @@ module.exports = {
     description: `Engaged in Site Developing, General Building Constructions, Repair/Renovation of Buildings, etc.`,
     about: `We're (A CORPORATION) has been a transition of a sole proprietorship owned and operated by DR. RICHARD MANGUBAT of R.M. MANGUBAT CONSTRUCTION in Year 2015.`,
     email: `rmmangubat1@gmail.com`,
+    social: {
+      facebook: `https://facebook.com/tanpelconstruction`,
+      twitter: `https://twitter.com/tanpelconstruction`,
+      instagram: `https://instagram.com/tanpelconstruction`,
+      linkedin: `https://linkedin.com/in/tanpelconstruction`,
+    },
+    contact: `(+63) 912 345 6789`,
+    address: `Bermuda Subd., Pamplona 3, Las Pinas City, Philippines, 1740`,
+    opening: {
+      day: `Monday - Friday`,
+      hour: `8:00am - 5:00pm`,
+    },
 
     author: {
       name: `Mark Dino Pelonia`,
