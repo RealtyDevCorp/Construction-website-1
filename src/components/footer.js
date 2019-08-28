@@ -10,8 +10,8 @@ import Mail from "../assets/svg/mail.svg"
 import Pin from "../assets/svg/map-pin.svg"
 
 import FacebookSVG from "../assets/svg/facebook.svg"
-import TwitterSVG from "../assets/svg/twitter.svg"
-import InstagramSVG from "../assets/svg/instagram.svg"
+// import TwitterSVG from "../assets/svg/twitter.svg"
+// import InstagramSVG from "../assets/svg/instagram.svg"
 import LinkedinSVG from "../assets/svg/linkedin.svg"
 
 // import ISO9001 from "../images/badge/ISO-9001.png"
