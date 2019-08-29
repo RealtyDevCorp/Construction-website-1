@@ -10,13 +10,13 @@ import Mail from "../assets/svg/mail.svg"
 import Pin from "../assets/svg/map-pin.svg"
 
 import FacebookSVG from "../assets/svg/facebook.svg"
-import TwitterSVG from "../assets/svg/twitter.svg"
-import InstagramSVG from "../assets/svg/instagram.svg"
+// import TwitterSVG from "../assets/svg/twitter.svg"
+// import InstagramSVG from "../assets/svg/instagram.svg"
 import LinkedinSVG from "../assets/svg/linkedin.svg"
 
-import ISO9001 from "../images/badge/ISO-9001.png"
-import ISO14001 from "../images/badge/ISO-14001.png"
-import ISO45001 from "../images/badge/ISO-45001.png"
+// import ISO9001 from "../images/badge/ISO-9001.png"
+// import ISO14001 from "../images/badge/ISO-14001.png"
+// import ISO45001 from "../images/badge/ISO-45001.png"
 import PCAB from "../images/badge/pcab.png"
 import PCA from "../images/badge/pca.png"
 
@@ -39,9 +39,9 @@ const Footer = ({ siteMetadata }) => {
             <Col className="company-badge" lg="4" sm="12">
               <h4>Licensed/Accredited</h4>
               <section className="img-badge">
-                <img src={ISO9001} alt="ISO-9001" />
+                {/* <img src={ISO9001} alt="ISO-9001" />
                 <img src={ISO14001} alt="ISO-14001" />
-                <img src={ISO45001} alt="ISO-45001" />
+                <img src={ISO45001} alt="ISO-45001" /> */}
                 <img src={PCAB} alt="PCAB LICENSE" />
                 <img src={PCA} alt="PCA" />
               </section>
@@ -58,7 +58,7 @@ const Footer = ({ siteMetadata }) => {
                   >
                     <FacebookSVG className="fill-svg" />
                   </a>
-                  <a
+                  {/* <a
                     href={social.twitter}
                     target="_blank"
                     rel="noopener noreferrer"
@@ -71,7 +71,7 @@ const Footer = ({ siteMetadata }) => {
                     rel="noopener noreferrer"
                   >
                     <InstagramSVG className="stroke-svg" />
-                  </a>
+                  </a> */}
                   <a
                     href={social.linkedin}
                     target="_blank"

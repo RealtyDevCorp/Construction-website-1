@@ -20,17 +20,11 @@ const AboutPage = () => {
 
   const { title, fullTitle } = data.site.siteMetadata
 
-  const aboutContent = [
-    `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea molestias incidunt reprehenderit. Aliquam harum laboriosam reprehenderit delectus nostrum iste in ullam perspiciatis! Doloremque quibusdam quo quas deleniti. Libero tempore nobis autem pariatur, cumque sunt dolor consequuntur sit velit! Voluptates ea sequi vitae distinctio voluptatem. Quis, tenetur necessitatibus? Dicta, perferendis provident?`,
-    `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem nisi esse dolorum architecto, id et illo, mollitia consectetur eaque debitis enim ea facere provident aperiam repellat nam natus molestiae expedita?`,
-    `Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis voluptatibus cumque incidunt vero corporis architecto vel voluptas optio nemo, cum repellendus, doloremque, voluptates sit? Sit facilis, minus odio tempora dicta distinctio expedita ipsa alias ipsam fuga, nulla dolor, quos ut molestias quia?`,
-    `Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ipsa officiis aperiam suscipit quaerat non reprehenderit sapiente hic, odit, praesentium dolorem veritatis. Velit dolorum accusamus debitis blanditiis? Ad officia corporis optio neque quaerat dolore, incidunt, ducimus facilis quo ratione, dicta quos voluptatibus ab consequatur unde debitis quibusdam! Temporibus, dolor pariatur ipsa eaque assumenda nesciunt nam! Ab rem ex iusto aut.`,
-  ]
   return (
     <section id="about">
       <PageHeader title="About Us" />
       <Container>
-        <main className="about-page section-lg">
+      <main className="about-page section-lg">
           <h2 className="header-title center">{title}</h2>
           <section className="about-content">
             <img
@@ -39,23 +33,49 @@ const AboutPage = () => {
               className="img-thumbnail"
               align="left"
             />
-            <p className="content-title">{fullTitle}</p>
-            {aboutContent.map(para => (
-              <p>{para}</p>
-            ))}
+            <p>
+              <strong>{fullTitle}</strong> (A CORPORATION) has been a transition
+              of a sole proprietorship owned and operated by{" "}
+              <u>DR. RICHARD MANGUBAT</u> of{" "}
+              <strong>R.M. MANGUBAT CONSTRUCTION</strong> in Year 2015.
+            </p>
+            <p>
+              <strong>{fullTitle}</strong> engaged in Site Developing, General
+              Building Constructions, Repair/Renovation of Buildings, etc.
+            </p>
+            <p>
+              This corporation is duly organized by the Board of Directors: Dr.
+              Richard M. Mangubat, PhD., Sita Tan-Mangubat, Elpidio Q. Tan,
+              Virginia M. Mangubat & Dr. Robert C. Manansala, Jr. It is duly
+              registered with SECURITY AND EXCHANGE COMMISSION (SEC)with
+              registration No. <u>CS201520498</u> and PHILIPPINE CONSTRUCTION
+              ACCREDITATION BOARD (PCAB) with license No. 41071.
+            </p>
+            <p>
+              <strong>{fullTitle}</strong> for the interest of its clients and
+              its own, engages the services of capable and hardworking field
+              engineers and construction workers who have distinguished
+              themselves in their respective fields of expertise, whether in
+              painting, masonry, plastering works, carpentry, concreting and
+              structural construction works. It will always be for the happy
+              pursuits of construction that the happy results will yield success
+              for all involved in the construction project. “As always, it will
+              be all for the best”.
+            </p>
           </section>
           <hr />
           <Row>
             <Col md="6">
               <AboutCard title="Mission">
                 <p>
-                  <strong>{fullTitle} </strong>Ipsum dolor sit amet consectetur
-                  adipisicing elit. Ullam quisquam ratione et sint, quos
-                  dolores, corporis debitis minus, vitae officia adipisci ipsa
-                  fugiat est dolorum eum optio blanditiis quas doloribus hic
-                  saepe dicta fugit exercitationem. Sed, recusandae atque nobis
-                  facilis voluptates, dolores quaerat aspernatur dolorem iusto
-                  autem, facere ipsa. Fugiat
+                  It is the mission<strong>{fullTitle} </strong>to deliver
+                  &nbsp; <u>professional</u> &nbsp; construction services that
+                  result in the highest quality building product available while
+                  conducting every aspect of our business with a level of &nbsp;{" "}
+                  <u>commitment</u>
+                  &nbsp; and &nbsp;
+                  <u>integrity</u> &nbsp; which sets the example other firms
+                  endeavor. We will excel in every facet of our business by:
                 </p>
                 <ol>
                   <li>Providing awesome customer service to our clients.</li>
@@ -77,22 +97,24 @@ const AboutPage = () => {
             <Col md="6">
               <AboutCard title="Vision">
                 <p>
-                  Ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                  quisquam ratione et sint, quos dolores, corporis debitis
-                  minus, vitae officia adipisci ipsa fugiat est dolorum eum
-                  optio blanditiis quas doloribus hic saepe dicta fugit
-                  exercitationem. Sed, recusandae atque nobis facilis
-                  voluptates, <strong>{fullTitle} </strong>
-                  dolores quaerat aspernatur dolorem iusto autem, facere ipsa.
+                  The company provides quality construction on time and on
+                  budget with professional and ethical standards that can only
+                  come from years of experience in the construction Industry. It
+                  is also our revelation in ensuring that our company is
+                  effectively utilizing construction firms today as they
+                  continue to develop their capabilities to compete in both the
+                  short-term and long-term. And
+                  <strong> {fullTitle} </strong>
+                  will also recognize for providing excellent services, every
+                  tie.
                 </p>
               </AboutCard>
               <AboutCard title="Core Values">
                 <p>
-                  Ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                  quisquam ratione et sint, quos dolores, corporis debitis
-                  minus, vitae officia adipisci ipsa fugiat est{" "}
-                  <strong>{title} </strong>dolorum eum optio blanditiis quas
-                  doloribus hic saepe dicta fugit exercitationem.
+                  In line with company’s vision mission, we believe that
+                  employees of
+                  <strong> {title} </strong>shall be guided with the following
+                  core values:
                 </p>
                 <ul>
                   <li>Professionalism</li>

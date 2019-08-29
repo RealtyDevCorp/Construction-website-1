@@ -6,10 +6,10 @@ module.exports = {
     about: `We're (A CORPORATION) has been a transition of a sole proprietorship owned and operated by DR. RICHARD MANGUBAT of R.M. MANGUBAT CONSTRUCTION in Year 2015.`,
     email: `rmmangubat1@gmail.com`,
     social: {
-      facebook: `https://facebook.com/tanpelconstruction`,
-      twitter: `https://twitter.com/tanpelconstruction`,
-      instagram: `https://instagram.com/tanpelconstruction`,
-      linkedin: `https://linkedin.com/in/tanpelconstruction`,
+      facebook: `https://facebook.com/rmconstruction.rdc`,
+      twitter: `https://twitter.com/rmconstruction.rdc`,
+      instagram: `https://instagram.com/rmconstruction.rdc`,
+      linkedin: `https://linkedin.com/in/rmconstruction.rdc`,
     },
     contact: {
       mobile: `(+63) 912 345 6789`,
