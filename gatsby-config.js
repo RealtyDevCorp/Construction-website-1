@@ -17,7 +17,7 @@ module.exports = {
     },
     address: `Bermuda Subd., Pamplona 3, Las Pinas City, Philippines, 1740`,
     opening: {
-      day: `Monday - Friday`,
+      day: `Monday - Saturday`,
       hour: `8:00am - 5:00pm`,
     },
 
