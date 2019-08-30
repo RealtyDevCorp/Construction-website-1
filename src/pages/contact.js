@@ -11,8 +11,8 @@ import Mail from "../assets/svg/mail.svg"
 import Pin from "../assets/svg/map-pin.svg"
 
 import FacebookSVG from "../assets/svg/facebook.svg"
-import TwitterSVG from "../assets/svg/twitter.svg"
-import InstagramSVG from "../assets/svg/instagram.svg"
+// import TwitterSVG from "../assets/svg/twitter.svg"
+// import InstagramSVG from "../assets/svg/instagram.svg"
 import LinkedinSVG from "../assets/svg/linkedin.svg"
 
 const ContactPage = () => {
@@ -113,7 +113,7 @@ const ContactPage = () => {
                     >
                       <FacebookSVG className="fill-svg" />
                     </a>
-                    <a
+                    {/* <a
                       href={social.twitter}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -126,7 +126,7 @@ const ContactPage = () => {
                       rel="noopener noreferrer"
                     >
                       <InstagramSVG className="stroke-svg" />
-                    </a>
+                    </a> */}
                     <a
                       href={social.linkedin}
                       target="_blank"
