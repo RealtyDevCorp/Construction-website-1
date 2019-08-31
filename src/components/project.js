@@ -55,14 +55,14 @@ const projects = [
     },
   },
   {
-    title: "Étienne Beauregard-Riverin",
-    category: ["construction"],
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 12 CLASSROOMS",
+    category: ["remodeling"],
+    description: `Project of DepED Dasma at NEW ERA NATIONAL HIGH SCHOOL, 
+    Sampaloc V, Dasmariñas City`,
     img: {
-      src: img4,
-      orig: "https://unsplash.com/photos/B0aCvAVSX8E",
-      author: "Photo by Étienne Beauregard-Riverin on Unsplash",
+      src: newEra,
+      orig: "NEW ERA NATIONAL HIGH SCHOOL",
+      author: "DepED Dasma",
     },
   },
   {
