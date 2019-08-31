@@ -18,6 +18,7 @@ import newEra from "../images/projects/new-era/cover.jpg"
 import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
 import stScholastica from "../images/projects/st-scholastica/cover.jpg"
 import zapoteEs from "../images/projects/zapote-es/cover.jpg"
+import sanNicolas from "../images/projects/san-nicolas/cover.jpg"
 
 const projects = [
   {
@@ -66,25 +67,25 @@ const projects = [
     },
   },
   {
-    title: "Jason Briscoe",
-    category: ["remodeling", "interior design"],
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
+    category: ["remodeling"],
+    description: `Project of DepED Dasma at PALIPARAN ELEMENTARY SCHOOL, 
+    Paliparan II, Dasmariñas City`,
     img: {
-      src: img5,
-      orig: "https://unsplash.com/photos/AQl-J19ocWE",
-      author: "Photo by Jason Briscoe on Unsplash",
+      src: paliparanEs,
+      orig: "PALIPARAN ELEMENTARY SCHOOL",
+      author: "DepED Dasma",
     },
   },
   {
-    title: "Lance Anderson",
-    category: ["construction", "interior design"],
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 22 CLASSROOMS",
+    category: ["remodeling"],
+    description: `Project of DepED Dasma at SAN NICOLAS ELEMENTARY SCHOOL, 
+    Brgy. San Nicolas I, Dasmariñas City`,
     img: {
-      src: img6,
-      orig: "https://unsplash.com/photos/QdAAasrZhdk",
-      author: "Photo by Lance Anderson on Unsplash",
+      src: sanNicolas,
+      orig: "SAN NICOLAS ELEMENTARY SCHOOL",
+      author: "DepED Dasma",
     },
   },
 ]
