@@ -16,7 +16,7 @@ const companyNews = [
     slug: `team-building-2019`,
   },
   {
-    title: `DO13 Seminar 2019 @Island Cove`,
+    title: `DO13 Seminar @Island Cove`,
     date: `May 13, 2018`,
     about: `Held @ Island Cove - Hotel and Leisure Park, Cavity.
     The Seminar is about to enforce mandatory occupational safety and health standards to eliminate or reduce occupational safety and health hazards in all work places`,
@@ -24,7 +24,7 @@ const companyNews = [
     slug: `do13-seminar-island-cove`,
   },
   {
-    title: `DO13 Seminar 2019 @Stotsenberg`,
+    title: `DO13 Seminar @Stotsenberg`,
     date: `Apr 08, 2018`,
     about: `Held @ Stotsenberg Hotel - Gil Puyat Avenue corner Andres Soriano St, ClarkFreeport Zone, Clark Freeport, Pampanga.
     The Seminar is about to enforce mandatory occupational safety and health standards to eliminate or reduce occupational safety and health hazards in all work places`,
