@@ -120,9 +120,9 @@ const Footer = ({ siteMetadata }) => {
         <Row className="footer-credits justify-content-center">
           {` ${title} © 2019 || Code and design by: `} &nbsp;
           <a
-            href={author.website}
-            target="_blank"
-            rel="noopener noreferrer"
+            href=""
+            target=""
+            rel=""
             title={author.position}
           >
             {author.name}
