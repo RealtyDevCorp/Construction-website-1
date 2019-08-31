@@ -3,31 +3,33 @@ import { Container, Row, Col } from "reactstrap"
 
 import NewsCard from "./newsCard"
 
-import imgBuilding from "../images/news/building.jpg"
-import imgSeminar from "../images/news/seminar.jpg"
-import imgTeamBuilding from "../images/news/team-building.jpg"
+import imgDO13Stotsenberg from "../images/news/do13-stotsenberg/cover.jpg"
+import imgDO13IslandCove from "../images/news/do13-seminar/cover.jpg"
+import imgTeamBuilding from "../images/news/company-outing-2019/cover.jpg"
 
 const companyNews = [
   {
-    title: `ISO Seminars 2019`,
-    date: `Mar. 23, 2019`,
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore eaque debitis quis corporis magni cupiditate aperiam autem. Nostrum, fugit dolor.`,
-    img: imgSeminar,
-    slug: `iso-seminars-2019`,
-  },
-  {
-    title: `TP Center Construction`,
-    date: `May. 19, 2019`,
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dolorem, magnam praesentium dignissimos repellendus eveniet!`,
-    img: imgBuilding,
-    slug: `tpcenter-construction`,
-  },
-  {
     title: `Company Team Building 2019`,
-    date: `August. 5, 2019`,
-    about: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis quibusdam similique provident quo vitae odio suscipit dicta cupiditate?`,
+    date: `Jun. 22-23, 2019`,
+    about: `The event used to help our Team increase trust, improve communication, increase collaboration and increase or maintain motivation, and most of all to have FUN!`,
     img: imgTeamBuilding,
-    slug: `company-teambuilding2019`,
+    slug: `team-building-2019`,
+  },
+  {
+    title: `DO13 Seminar @Island Cove`,
+    date: `May 13, 2018`,
+    about: `Held @ Island Cove - Hotel and Leisure Park, Cavity.
+    The Seminar is about to enforce mandatory occupational safety and health standards to eliminate or reduce occupational safety and health hazards in all work places`,
+    img: imgDO13IslandCove,
+    slug: `do13-seminar-island-cove`,
+  },
+  {
+    title: `DO13 Seminar @Stotsenberg`,
+    date: `Apr 08, 2018`,
+    about: `Held @ Stotsenberg Hotel - Gil Puyat Avenue corner Andres Soriano St, ClarkFreeport Zone, Clark Freeport, Pampanga.
+    The Seminar is about to enforce mandatory occupational safety and health standards to eliminate or reduce occupational safety and health hazards in all work places`,
+    img: imgDO13Stotsenberg,
+    slug: `do13-seminar-stotsenberg`,
   },
 ]
 
