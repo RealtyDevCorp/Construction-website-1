@@ -5,20 +5,20 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-import img1 from "../images/projects/ialicante-mediterranean-homes-2d4lAQAlbDA-unsplash.jpg"
-import img2 from "../images/projects/jarek-ceborski-jn7uVeCdf6U-unsplash.jpg"
-import img3 from "../images/projects/pixasquare-4ojhpgKpS68-unsplash.jpg"
-import img4 from "../images/projects/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.jpg"
-import img5 from "../images/projects/jason-briscoe-AQl-J19ocWE-unsplash.jpg"
-import img6 from "../images/projects/lance-anderson-QdAAasrZhdk-unsplash.jpg"
+// import img1 from "../images/projects/ialicante-mediterranean-homes-2d4lAQAlbDA-unsplash.jpg"
+// import img2 from "../images/projects/jarek-ceborski-jn7uVeCdf6U-unsplash.jpg"
+// import img3 from "../images/projects/pixasquare-4ojhpgKpS68-unsplash.jpg"
+// import img4 from "../images/projects/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash.jpg"
+// import img5 from "../images/projects/jason-briscoe-AQl-J19ocWE-unsplash.jpg"
+// import img6 from "../images/projects/lance-anderson-QdAAasrZhdk-unsplash.jpg"
 
 import apeco from "../images/projects/apeco/cover.jpg"
 import congressional from "../images/projects/congressional/cover.jpg"
 import jpRizal from "../images/projects/jp-rizal/cover.jpg"
 import newEra from "../images/projects/new-era/cover.jpg"
 import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
-import stScholastica from "../images/projects/st-scholastica/cover.jpg"
-import zapoteEs from "../images/projects/zapote-es/cover.jpg"
+// import stScholastica from "../images/projects/st-scholastica/cover.jpg"
+// import zapoteEs from "../images/projects/zapote-es/cover.jpg"
 import sanNicolas from "../images/projects/san-nicolas/cover.jpg"
 
 const projects = [
