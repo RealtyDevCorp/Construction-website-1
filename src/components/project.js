@@ -40,18 +40,18 @@ const projects = [
     img: {
       src: congressional,
       orig: "CONGRESSIONAL NATIONAL HIGH SCHOOL",
-      author: "Congressional",
+      author: "DepED Dasma",
     },
   },
   {
-    title: "Pixasquare",
-    category: ["construction"],
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
+    category: ["remodeling"],
+    description: `Project of DepED Dasma at DR. JOSE P. RIZAL ELEMENTARY SCHOOL, 
+    Sto. Cristo, Dasmariñas City`,
     img: {
-      src: img3,
-      orig: "https://unsplash.com/photos/4ojhpgKpS68",
-      author: "Photo by Pixasquare on Unsplash",
+      src: jpRizal,
+      orig: "DR. JOSE P. RIZAL ELEMENTARY SCHOOL",
+      author: "DepED Dasma",
     },
   },
   {
