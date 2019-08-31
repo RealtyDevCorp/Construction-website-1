@@ -11,20 +11,19 @@ import img4 from "../images/projects/etienne-beauregard-riverin-B0aCvAVSX8E-unsp
 import img5 from "../images/projects/jason-briscoe-AQl-J19ocWE-unsplash.jpg"
 import img6 from "../images/projects/lance-anderson-QdAAasrZhdk-unsplash.jpg"
 
-import apeco from '../images/projects/apeco/cover.jpg';
-import congressional from '../images/projects/congressional/cover.jpg';
-import jpRizal from '../images/projects/jp-rizal/cover.jpg';
-import newEra from '../images/projects/new-era/cover.jpg';
-import paliparanEs from '../images/projects/paliparan-es/cover.jpg';
-import stScholastica from '../images/projects/st-scholastica/cover.jpg';
-import zapoteEs from '../images/projects/zapote-es/cover.jpg';
+import apeco from "../images/projects/apeco/cover.jpg"
+import congressional from "../images/projects/congressional/cover.jpg"
+import jpRizal from "../images/projects/jp-rizal/cover.jpg"
+import newEra from "../images/projects/new-era/cover.jpg"
+import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
+import stScholastica from "../images/projects/st-scholastica/cover.jpg"
+import zapoteEs from "../images/projects/zapote-es/cover.jpg"
 
 const projects = [
   {
     title: "Construction of Leasehold Improvements for APECO's Satelite Office",
     category: ["interior design"],
-    description:
-      `Owned by AURORA PACIFIC ECONOMIC ZONE AND FREEPORT AUTHORITY.
+    description: `Owned by AURORA PACIFIC ECONOMIC ZONE AND FREEPORT AUTHORITY.
       Located at Unit 702-3 Philflex Bldg., 15 Coral Way Road, Central Business Park,
       Mall of Asia Complex, Pasay City `,
     img: {
@@ -34,14 +33,14 @@ const projects = [
     },
   },
   {
-    title: "Jarek Ceborski",
-    category: ["interior design"],
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 14 CLASSROOMS",
+    category: ["remodeling"],
+    description: `Project of DepED Dasma at CONGRESSIONAL NATIONAL HIGH SCHOOL, 
+      Via Verde Village, San Agustin Ii, Dasmariñas City`,
     img: {
-      src: img2,
-      orig: "https://unsplash.com/photos/jn7uVeCdf6U",
-      author: "Photo by Jarek Ceborski on Unsplash",
+      src: congressional,
+      orig: "CONGRESSIONAL NATIONAL HIGH SCHOOL",
+      author: "Congressional",
     },
   },
   {
