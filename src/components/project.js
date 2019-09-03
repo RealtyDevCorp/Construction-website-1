@@ -19,9 +19,21 @@ import newEra from "../images/projects/new-era/cover.jpg"
 import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
 // import stScholastica from "../images/projects/st-scholastica/cover.jpg"
 // import zapoteEs from "../images/projects/zapote-es/cover.jpg"
-import sanNicolas from "../images/projects/san-nicolas/cover.jpg"
+// import sanNicolas from "../images/projects/san-nicolas/cover.jpg"
+import samarHouse from "../images/projects/samar-house/cover.jpg"
 
 const projects = [
+  {
+    title: "2-Storey Residence with Roofdeck",
+    category: ["construction", "interior design"],
+    description: `Owned by Mr. & Mrs. Mangubat.
+      Located at Brgy. Cataogan, Municipality of Lavezares, Province of Northern Samar.`,
+    img: {
+      src: samarHouse,
+      orig: "2-Storey Residence with Roofdeck",
+      author: "Mr. & Mrs. Mangubat",
+    },
+  },
   {
     title: "Construction of Leasehold Improvements for APECO's Satelite Office",
     category: ["interior design"],
@@ -78,17 +90,17 @@ const projects = [
       author: "DepED Dasma",
     },
   },
-  {
-    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 22 CLASSROOMS",
-    category: ["remodeling"],
-    description: `Project of DepED Dasma at SAN NICOLAS ELEMENTARY SCHOOL, 
-    Brgy. San Nicolas I, Dasmariñas City`,
-    img: {
-      src: sanNicolas,
-      orig: "SAN NICOLAS ELEMENTARY SCHOOL",
-      author: "DepED Dasma",
-    },
-  },
+  // {
+  //   title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 22 CLASSROOMS",
+  //   category: ["remodeling"],
+  //   description: `Project of DepED Dasma at SAN NICOLAS ELEMENTARY SCHOOL,
+  //   Brgy. San Nicolas I, Dasmariñas City`,
+  //   img: {
+  //     src: sanNicolas,
+  //     orig: "SAN NICOLAS ELEMENTARY SCHOOL",
+  //     author: "DepED Dasma",
+  //   },
+  // },
 ]
 const projCategories = ["all", "construction", "remodeling", "interior design"]
 class Project extends Component {
