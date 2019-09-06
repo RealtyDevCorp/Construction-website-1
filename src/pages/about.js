@@ -67,7 +67,7 @@ const AboutPage = () => {
           </section>
           <hr />
           <Row>
-            <Col md="6">
+            <Col md="6" className="d-flex align-items-stretch">
               <AboutCard title="Mission">
                 <p>
                   It is the mission <strong>{fullTitle} </strong>to deliver
@@ -97,7 +97,7 @@ const AboutPage = () => {
                 </ol>
               </AboutCard>
             </Col>
-            <Col md="6">
+            <Col md="6" className="d-flex align-items-stretch">
               <AboutCard title="Vision">
                 <p>
                   The company provides quality construction on time and on
