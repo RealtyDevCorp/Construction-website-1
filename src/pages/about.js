@@ -24,7 +24,7 @@ const AboutPage = () => {
     <section id="about">
       <PageHeader title="About Us" />
       <Container>
-      <main className="about-page section-lg">
+        <main className="about-page section-lg">
           <h2 className="header-title center">{title}</h2>
           <section className="about-content">
             <img
@@ -34,33 +34,35 @@ const AboutPage = () => {
               align="left"
             />
             <p>
-              <strong>{fullTitle}</strong> (A CORPORATION) has been a transition
-              of a sole proprietorship owned and operated by{" "}
-              <u>DR. RICHARD MANGUBAT</u> of{" "}
-              <strong>R.M. MANGUBAT CONSTRUCTION</strong> in Year 2015.
+              <strong>{fullTitle}</strong> is a total building resource offering
+              unparalleled service and value to our clients. Our in-house
+              offerings include pre-construction, program management,
+              construction management, design / build, design / assist, general
+              contracting, site development, construction consultation and Real
+              Estate Agency. In the year 2019, starts selling houses & lots and
+              condominium’s. These services are supported with
+              state-of-the-science estimating, value engineering, scheduling,
+              and information processing technology.
             </p>
             <p>
-              <strong>{fullTitle}</strong> engaged in Site Developing, General
-              Building Constructions, Repair/Renovation of Buildings, etc.
+              The Corporation builds in the year 2015 for a family ownership. In
+              response to the rapid momentum, and wanting to ensure a continued
+              focus on core principles, company leaders drafted a process known
+              as <strong>{title}</strong> ideas. To this day, The{" "}
+              <strong>{title}</strong> idea continues to be the principle that
+              governs our company as a Corporation. Displayed on every job site,
+              the principle is a visual reminder of the characteristics expected
+              of all our associates.
             </p>
             <p>
-              This corporation is duly organized by the Board of Directors: Dr.
-              Richard M. Mangubat, PhD., Sita Tan-Mangubat, Elpidio Q. Tan,
-              Virginia M. Mangubat & Dr. Robert C. Manansala, Jr. It is duly
-              registered with SECURITY AND EXCHANGE COMMISSION (SEC)with
-              registration No. <u>CS201520498</u> and PHILIPPINE CONSTRUCTION
-              ACCREDITATION BOARD (PCAB) with license No. 41071.
-            </p>
-            <p>
-              <strong>{fullTitle}</strong> for the interest of its clients and
-              its own, engages the services of capable and hardworking field
-              engineers and construction workers who have distinguished
-              themselves in their respective fields of expertise, whether in
-              painting, masonry, plastering works, carpentry, concreting and
-              structural construction works. It will always be for the happy
-              pursuits of construction that the happy results will yield success
-              for all involved in the construction project. “As always, it will
-              be all for the best”.
+              Now in it’s continues year of family ownership, the company
+              continues to flourish under the leadership of{" "}
+              <strong>DR. RICHARD M. MANGUBAT</strong>, President, and{" "}
+              <strong>SITA T. MANGUBAT</strong>, AUTHORIZED MANAGING OFFICER.
+              Under their direction, <strong>{fullTitle}</strong> continues to
+              build upon its foundation of repeat clients with unparalleled
+              client satisfaction, as General Contractor, Consultant and Real
+              Estate Supplier.
             </p>
           </section>
           <hr />
@@ -68,9 +70,9 @@ const AboutPage = () => {
             <Col md="6">
               <AboutCard title="Mission">
                 <p>
-                  It is the mission<strong>{fullTitle} </strong>to deliver
-                  &nbsp; <u>professional</u> &nbsp; construction services that
-                  result in the highest quality building product available while
+                  <strong>{fullTitle} </strong>to deliver &nbsp;{" "}
+                  <u>professional</u> &nbsp; construction services that result
+                  in the highest quality building product available while
                   conducting every aspect of our business with a level of &nbsp;{" "}
                   <u>commitment</u>
                   &nbsp; and &nbsp;
