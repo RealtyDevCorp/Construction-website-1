@@ -13,7 +13,7 @@ import ProjCard from "./projCard"
 // import img6 from "../images/projects/lance-anderson-QdAAasrZhdk-unsplash.jpg"
 
 import apeco from "../images/projects/apeco/cover.jpg"
-import congressional from "../images/projects/congressional/cover.jpg"
+// import congressional from "../images/projects/congressional/cover.jpg"
 import jpRizal from "../images/projects/jp-rizal/cover.jpg"
 import newEra from "../images/projects/new-era/cover.jpg"
 import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
@@ -21,6 +21,7 @@ import paliparanEs from "../images/projects/paliparan-es/cover.jpg"
 // import zapoteEs from "../images/projects/zapote-es/cover.jpg"
 // import sanNicolas from "../images/projects/san-nicolas/cover.jpg"
 import samarHouse from "../images/projects/samar-house/cover.jpg"
+import samarMultipurpose from "../images/projects/multipurpose/cover.jpg"
 
 const projects = [
   {
@@ -47,19 +48,19 @@ const projects = [
     },
   },
   {
-    title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 14 CLASSROOMS",
-    category: ["remodeling"],
-    description: `Project of DepED Dasma at CONGRESSIONAL NATIONAL HIGH SCHOOL, 
-      Via Verde Village, San Agustin Ii, Dasmariñas City`,
+    title: "Multipurpose Hall",
+    category: ["construction", "interior design"],
+    description: `Owned by Mr. & Mrs. Mangubat.
+    Located at Brgy. Cataogan, Municipality of Lavezares, Province of Northern Samar.`,
     img: {
-      src: congressional,
-      orig: "CONGRESSIONAL NATIONAL HIGH SCHOOL",
-      author: "DepED Dasma",
+      src: samarMultipurpose,
+      orig: "Multipurpose Hall",
+      author: "Mr. & Mrs. Mangubat",
     },
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at DR. JOSE P. RIZAL ELEMENTARY SCHOOL, 
     Sto. Cristo, Dasmariñas City`,
     img: {
@@ -70,7 +71,7 @@ const projects = [
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 12 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at NEW ERA NATIONAL HIGH SCHOOL, 
     Sampaloc V, Dasmariñas City`,
     img: {
@@ -81,7 +82,7 @@ const projects = [
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at PALIPARAN ELEMENTARY SCHOOL, 
     Paliparan II, Dasmariñas City`,
     img: {
@@ -92,7 +93,7 @@ const projects = [
   },
   // {
   //   title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 22 CLASSROOMS",
-  //   category: ["remodeling"],
+  //   category: ["repair"],
   //   description: `Project of DepED Dasma at SAN NICOLAS ELEMENTARY SCHOOL,
   //   Brgy. San Nicolas I, Dasmariñas City`,
   //   img: {
@@ -102,7 +103,7 @@ const projects = [
   //   },
   // },
 ]
-const projCategories = ["all", "construction", "remodeling", "interior design"]
+const projCategories = ["all", "construction", "repair", "interior design"]
 class Project extends Component {
   state = {
     category: "all",
