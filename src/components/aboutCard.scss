@@ -18,4 +18,12 @@
       font-weight: bold;
     }
   }
+
+  .about-card-content {
+    li {
+      p {
+        color: $secondary;
+      }
+    }
+  }
 }
