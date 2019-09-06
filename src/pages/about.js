@@ -70,10 +70,11 @@ const AboutPage = () => {
             <Col md="6">
               <AboutCard title="Mission">
                 <p>
-                  <strong>{fullTitle} </strong>to deliver &nbsp;{" "}
+                  It is the mission <strong>{fullTitle} </strong>to deliver
+                  &nbsp;
                   <u>professional</u> &nbsp; construction services that result
                   in the highest quality building product available while
-                  conducting every aspect of our business with a level of &nbsp;{" "}
+                  conducting every aspect of our business with a level of &nbsp;
                   <u>commitment</u>
                   &nbsp; and &nbsp;
                   <u>integrity</u> &nbsp; which sets the example other firms
@@ -111,17 +112,101 @@ const AboutPage = () => {
                   tie.
                 </p>
               </AboutCard>
+            </Col>
+            <Col md="12">
               <AboutCard title="Core Values">
-                <p>
-                  In line with company’s vision mission, we believe that
-                  employees of
-                  <strong> {title} </strong>shall be guided with the following
-                  core values:
-                </p>
                 <ul>
-                  <li>Professionalism</li>
-                  <li>Commitment</li>
-                  <li>Integrity</li>
+                  <li>
+                    <strong>Safety</strong>
+                    <p>
+                      Safety will always come first as we strive for
+                      accident-free projects.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Professionalism</strong>
+                    <p>
+                      We are professionals committed to saving our clients money
+                      through cost-effective solutions and value-added services
+                      while making a fair profit.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Integrity </strong> (Honesty, Trust and Respect)
+                    <p>
+                      We are committed to the highest ethical standards. It’s
+                      what our Customers expect from us and what our Associates
+                      expect from their leadership and each other. This is
+                      earned through our performance and by our example. The
+                      very heart of our business is the faith our clients have
+                      in {title}. We as a Company, and you and I as individuals,
+                      must never do anything to compromise that trust.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Attitude</strong>
+                    <p>
+                      A can-do attitude and willingness to go the extra mile for
+                      our customers and fellow associates are essential to our
+                      company’s success. Our associates are part of the
+                      decision-making process. Team involvement is necessary for
+                      improvement.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Team Management </strong>(with Shared
+                    Responsibilities)
+                    <p>
+                      We don’t work for one person… we work together as a team.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Open and Free Communication</strong>
+                    <p>
+                      We communicate within {title} from the bottom to the top,
+                      from the top down and within the marketplace. We offer an
+                      environment for participation and creativity for all of
+                      our Associates and tailor our services to personalize
+                      communications with our Customers.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Quality</strong>
+                    <p>
+                      Our goal is simply to be the best and to continually
+                      improve. This is accomplished through focused teamwork,
+                      pride in our work, quality controlled systems – and by
+                      hiring and educating the best people we can possibly find.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Inclusion</strong>
+                    <p>
+                      Inclusion is the lifeline of our future. It’s not
+                      something we say we do. It is a key component of our
+                      business plan and essential to the economic sustainability
+                      of the rich mix of diverse communities and customers we
+                      serve. Our inclusion commitment is reflected through
+                      workforce diversity, supplier diversity, and community
+                      involvement.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Accountability</strong>
+                    <p>
+                      We are accountable to our Customers, Company, Teammates,
+                      and Suppliers – and Accountability ultimately to God.
+                    </p>
+                  </li>
+                  <li>
+                    <strong>Customer Satisfaction</strong>
+                    <p>
+                      The end result of our efforts must be a satisfied
+                      Customer. Our reputation is the key to {title} longevity
+                      in the construction industry and will remain the key to
+                      future successes.
+                    </p>
+                  </li>
                 </ul>
               </AboutCard>
             </Col>
