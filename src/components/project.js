@@ -60,7 +60,7 @@ const projects = [
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at DR. JOSE P. RIZAL ELEMENTARY SCHOOL, 
     Sto. Cristo, Dasmariñas City`,
     img: {
@@ -71,7 +71,7 @@ const projects = [
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 12 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at NEW ERA NATIONAL HIGH SCHOOL, 
     Sampaloc V, Dasmariñas City`,
     img: {
@@ -82,7 +82,7 @@ const projects = [
   },
   {
     title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 4 CLASSROOMS",
-    category: ["remodeling"],
+    category: ["repair"],
     description: `Project of DepED Dasma at PALIPARAN ELEMENTARY SCHOOL, 
     Paliparan II, Dasmariñas City`,
     img: {
@@ -93,7 +93,7 @@ const projects = [
   },
   // {
   //   title: "REPAIR AND REHABILITATION OF SCHOOL BUILDINGS - 22 CLASSROOMS",
-  //   category: ["remodeling"],
+  //   category: ["repair"],
   //   description: `Project of DepED Dasma at SAN NICOLAS ELEMENTARY SCHOOL,
   //   Brgy. San Nicolas I, Dasmariñas City`,
   //   img: {
@@ -103,7 +103,7 @@ const projects = [
   //   },
   // },
 ]
-const projCategories = ["all", "construction", "remodeling", "interior design"]
+const projCategories = ["all", "construction", "repair", "interior design"]
 class Project extends Component {
   state = {
     category: "all",
