@@ -1,6 +1,7 @@
 [
   {
     "title": "Ialicante Mediterranean Homes",
+    "slug": "ialicante",
     "category": ["construction"],
     "description": "iAlicante provides a brand new line of modern Villas and Apartments and beautiful second-hand properties on the SUNNY Mediterranean coast of Costa Blanca, in Spain '' the White Coast'', which is one of the top holiday destinations.",
     "img": {
@@ -15,15 +16,16 @@
       "orig": "https://unsplash.com/photos/2d4lAQAlbDA",
       "author": "Photo by iAlicante Mediterranean Homes on Unsplash"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "ialicante.com",
     "address": "Alicante, Costa Blanca, Spain",
     "featured": true
   },
   {
     "title": "Jarek Ceborski",
+    "slug": "jarek-ceborski",
     "category": ["interior design"],
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
     "img": {
@@ -33,14 +35,15 @@
       "orig": "https://unsplash.com/photos/jn7uVeCdf6U",
       "author": "Photo by Jarek Ceborski on Unsplash"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "Jarek Ceborski",
     "address": "Wrocław, Poland"
   },
   {
     "title": "Pixasquare",
+    "slug": "pixasquare",
     "category": ["construction"],
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
     "img": {
@@ -50,14 +53,15 @@
       "orig": "https://unsplash.com/photos/4ojhpgKpS68",
       "author": "Photo by Pixasquare on Unsplash"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "pixasquare.com",
     "address": "Manila, Philippines"
   },
   {
     "title": "Étienne Beauregard-Riverin",
+    "slug": "sphericity",
     "category": ["construction"],
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
     "img": {
@@ -67,14 +71,15 @@
       "orig": "https://unsplash.com/photos/B0aCvAVSX8E",
       "author": "unsplash.com/@sphericity"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "Sphericity",
     "address": "Manila, Philippines"
   },
   {
     "title": "Jason Briscoe",
+    "slug": "jason-briscoe",
     "category": ["remodeling", "interior design"],
     "description": "Giving brands the energy to change. I use design to help clients find the vision and courage to take on the world.",
     "img": {
@@ -86,15 +91,16 @@
       "orig": "https://unsplash.com/photos/AQl-J19ocWE",
       "author": "Photo by Jason Briscoe on Unsplash"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "Jason Briscoe",
     "address": "Toronto",
     "featured": true
   },
   {
     "title": "The Rock and Roll Hall of Fame and Museum",
+    "slug": "lance-anderson",
     "category": ["construction", "interior design"],
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
     "img": {
@@ -107,9 +113,9 @@
       "orig": "https://unsplash.com/photos/QdAAasrZhdk",
       "author": "Photo by Lance Anderson on Unsplash"
     },
-    "engineer": "Engr. Zaldy Omar",
     "amount": "Php 4,000,000.00",
-    "duration": "Jan. 12, 2018 - Apr. 20, 2019",
+    "duration": "85 Calendar days",
+    "completionDate": "Feb. 20, 2018",
     "owner": "Lance Anderson",
     "address": "Cleveland, United States",
     "featured": true
