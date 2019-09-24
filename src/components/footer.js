@@ -44,7 +44,7 @@ const Footer = ({ siteMetadata }) => {
                 <img src={ISO14001} alt="ISO-14001" />
                 <img src={ISO45001} alt="ISO-45001" /> */}
                 <img src={PCAB} alt="PCAB LICENSE" />
-                <img src={PhilGEPS} alt='PhilGEPS logo' />
+                <img src={PhilGEPS} alt="PhilGEPS logo" />
                 <img src={PCA} alt="PCA" />
               </section>
             </Col>
@@ -122,7 +122,7 @@ const Footer = ({ siteMetadata }) => {
         <Row className="footer-credits justify-content-center">
           {` ${title} © 2019 || Code and design by: `} &nbsp;
           <a
-            href="/"
+            href={`mailto:${author.email}`}
             target=""
             rel=""
             title={author.position}

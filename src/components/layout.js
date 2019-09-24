@@ -42,6 +42,7 @@ const Layout = ({ children }) => {
             name
             website
             position
+            email
           }
         }
       }
