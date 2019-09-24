@@ -1,123 +1,207 @@
 [
   {
-    "title": "Ialicante Mediterranean Homes",
-    "slug": "ialicante",
-    "category": ["construction"],
-    "description": "iAlicante provides a brand new line of modern Villas and Apartments and beautiful second-hand properties on the SUNNY Mediterranean coast of Costa Blanca, in Spain '' the White Coast'', which is one of the top holiday destinations.",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-        "https://images.unsplash.com/photo-1512916194211-3f2b7f5f7de3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-        "https://images.unsplash.com/photo-1512914890251-2f96a9b0bbe2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
-        "https://images.unsplash.com/photo-1512918428767-68579e250c06?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
-        "https://images.unsplash.com/photo-1512916958891-fcf61b2160df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80",
-        "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/2d4lAQAlbDA",
-      "author": "Photo by iAlicante Mediterranean Homes on Unsplash"
-    },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "ialicante.com",
-    "address": "Alicante, Costa Blanca, Spain",
-    "featured": true
-  },
-  {
-    "title": "Jarek Ceborski",
-    "slug": "jarek-ceborski",
-    "category": ["interior design"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/jn7uVeCdf6U",
-      "author": "Photo by Jarek Ceborski on Unsplash"
-    },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "Jarek Ceborski",
-    "address": "Wrocław, Poland"
-  },
-  {
-    "title": "Pixasquare",
-    "slug": "pixasquare",
-    "category": ["construction"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/4ojhpgKpS68",
-      "author": "Photo by Pixasquare on Unsplash"
-    },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "pixasquare.com",
-    "address": "Manila, Philippines"
-  },
-  {
-    "title": "Étienne Beauregard-Riverin",
-    "slug": "sphericity",
-    "category": ["construction"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/B0aCvAVSX8E",
-      "author": "unsplash.com/@sphericity"
-    },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "Sphericity",
-    "address": "Manila, Philippines"
-  },
-  {
-    "title": "Jason Briscoe",
-    "slug": "jason-briscoe",
-    "category": ["remodeling", "interior design"],
-    "description": "Giving brands the energy to change. I use design to help clients find the vision and courage to take on the world.",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1502005097973-6a7082348e28?ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80",
-        "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80",
-        "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/AQl-J19ocWE",
-      "author": "Photo by Jason Briscoe on Unsplash"
-    },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "Jason Briscoe",
-    "address": "Toronto",
-    "featured": true
-  },
-  {
-    "title": "The Rock and Roll Hall of Fame and Museum",
-    "slug": "lance-anderson",
+    "title": "2-Storey Residential House w/ Roofdeck and Multipurpose Hall",
+    "slug": "2-storey-residence-with-roofdeck-and-malltipurpose-hall",
     "category": ["construction", "interior design"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    "description": "Construction of Two (2) Storey Residentail House with Roofdeck. The building was built from a good quality materials and selected top brands. The Multipurpose Hall is located at the back of 2 storey House.",
     "img": {
       "src": [
-        "https://images.unsplash.com/photo-1487958449943-2429e8be8625?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-        "https://images.unsplash.com/photo-1487603527224-a650979f288e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-        "https://images.unsplash.com/photo-1487603097198-fe76cd44579d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
-        "https://images.unsplash.com/photo-1487603348225-f4bb6ceba144?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/QdAAasrZhdk",
-      "author": "Photo by Lance Anderson on Unsplash"
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/2-storey-residence-with-roofdeck-and-malltipurpose-hall/img6.jpg"
+      ]
     },
-    "amount": "Php 4,000,000.00",
-    "duration": "85 Calendar days",
-    "completionDate": "Feb. 20, 2018",
-    "owner": "Lance Anderson",
-    "address": "Cleveland, United States",
+    "amount": "Php 12,500,000.00",
+    "duration": "160 Calendar days",
+    "completionDate": "Dec. 11, 2018",
+    "owner": "Engr. Consorcia T. Lancin",
+    "address": "Lavezares, Northern Samar",
+    "featured": true
+  },
+  {
+    "title": "Lease hold Improvement of APECO Manila Satelite Office at Philflex Building",
+    "slug": "apeco",
+    "category": ["interior design"],
+    "description": "Aurora Pacific Economic Zone and Freeport Authority",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img6.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/apeco/img7.jpg"
+      ]
+    },
+    "amount": "Php 4,499,862.00",
+    "duration": "45 Calendar days",
+    "completionDate": "Jun. 17, 2018",
+    "owner": "Aurora Pacific Economic Zone and Authority",
+    "address": "Unit 702-3 Philflex Bldg., 15 Coral Way Road, Central Business Park, Mall of Asia Complex, Pasay City",
+    "featured": true
+  },
+  {
+    "title": "Repair and Rehabilitation of Classrooms Cluster 1",
+    "slug": "congretional-nhs",
+    "category": ["repair"],
+    "description": "Repair And Rehabilitation Of School Buildings - 14 Classrooms @ CONGRESSIONAL NATIONAL HIGH SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img6.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img7.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img10.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img11.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/congressional/img12.jpg"
+      ]
+    },
+    "amount": "Php  3,819,156.80",
+    "duration": "150 Calendar days",
+    "completionDate": "Sept. 10, 2018",
+    "owner": "Department of Education",
+    "address": "Via Verde Village, San Agustin II, Dasmarinas City"
+  },
+  {
+    "title": "Repair and Rehabilitation of Classrooms Cluster 1",
+    "slug": "jprizal",
+    "category": ["repair"],
+    "description": "Repair And Rehabilitation Of School Buildings - 4 Classrooms @ DR. JOSE P. RIZAL ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img6.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img7.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/jp-rizal/img8.jpg"
+      ]
+    },
+    "amount": "Php  1,133,770.14",
+    "duration": "150 Calendar days",
+    "completionDate": "Sept. 10, 2018",
+    "owner": "Department of Education",
+    "address": "Sto. Cristo, Dasmarinas City"
+  },
+  {
+    "title": "Repair and Rehabilitation of Classrooms Cluster 1",
+    "slug": "paliparan-es",
+    "category": ["repair"],
+    "description": "Repair And Rehabilitation Of School Buildings - 4 Classrooms @ PALIPARAN ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/paliparan-es/img6.jpg"
+      ]
+    },
+    "amount": "Php  1,734,185.99",
+    "duration": "150 Calendar days",
+    "completionDate": "Sept. 10, 2018",
+    "owner": "Department of Education",
+    "address": "Paliparan II, Dasmarinas City"
+  },
+  {
+    "title": "Repair and Rehabilitation of Classrooms Cluster 2",
+    "slug": "new-era-nhs",
+    "category": ["repair"],
+    "description": "Repair and Rehabilitation of School Buildings - 12 Classrooms @ NEW ERA NATIONAL HIGH SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img6.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/new-era/img7.jpg"
+      ]
+    },
+    "amount": "Php  3,229,939.08",
+    "duration": "150 Calendar days",
+    "completionDate": "Sept. 10, 2018",
+    "owner": "Department of Education",
+    "address": "Sampaloc V, Dasmarinas City"
+  },
+  {
+    "title": "Repair and Rehabilitation of Classrooms Cluster 2",
+    "slug": "san-nicolas-es",
+    "category": ["repair"],
+    "description": "Repair and Rehabilitation of School Buildings - 22 Classrooms @ SAN NICOLAS ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img10.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img11.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/san-nicolas/img12.jpg"
+      ]
+    },
+    "amount": "Php  4,431,987.89",
+    "duration": "150 Calendar days",
+    "completionDate": "Sept. 10, 2018",
+    "owner": "Department of Education",
+    "address": "San Nicolas I, Dasmarinas City"
+  },
+  {
+    "title": "Repair of Classroom Batch 1",
+    "slug": "zapote-es",
+    "category": ["repair"],
+    "description": "Repair of 36 classroom Aguilar Bldg. @ ZAPOTE ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/zapote-es/img1.jpg"
+      ]
+    },
+    "amount": "Php  1,370,650.86",
+    "duration": "120 Calendar days",
+    "completionDate": "Apr. 05, 2018",
+    "owner": "DepED Las Pinas City",
+    "address": "Gabaldon Bldg., Padre Diego Cera Ave., Real St., E. Aldana, Las Pinas City"
+  },
+  {
+    "title": "Renovation of Maria Fe Perez-Agudo Center for Leadership Excellence",
+    "slug": "st-scholastica",
+    "category": ["repair"],
+    "description": "STA. SCHOLASTICA COLLEGE",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img10.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img11.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/st-scholastica/img12.jpg"
+      ]
+    },
+    "amount": "Php  5,100,000.00",
+    "duration": "210 Calendar days",
+    "completionDate": "Sep. 30, 2016",
+    "owner": "Hyundai Asia Resources, Inc.",
+    "address": "Leon Guinto, Malate Manila",
     "featured": true
   }
 ]
