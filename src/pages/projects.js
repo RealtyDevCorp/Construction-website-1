@@ -26,8 +26,6 @@ export const projectsQuery = graphql`
           description
           img {
             src
-            orig
-            author
           }
         }
       }

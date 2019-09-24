@@ -19,8 +19,6 @@ export const query = graphql`
       description
       img {
         src
-        orig
-        author
       }
       completionDate
       amount

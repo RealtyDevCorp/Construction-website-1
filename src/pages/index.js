@@ -39,12 +39,11 @@ export const projectsQuery = graphql`
       edges {
         node {
           title
+          slug
           category
           description
           img {
             src
-            orig
-            author
           }
           completionDate
           amount
