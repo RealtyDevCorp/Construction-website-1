@@ -7,7 +7,7 @@ import List2 from "../components/list2"
 
 import Check from "../assets/svg/solid/check.svg"
 
-import teamThumbnail from "../images/team.jpg"
+import teamThumbnail from "../images/company.jpg"
 
 const CareersPage = () => {
   return (
