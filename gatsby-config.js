@@ -15,10 +15,10 @@ module.exports = {
       linkedin: `https://linkedin.com/in/rmconstruction.rdc`,
     },
     contact: {
-      mobile: `(+63) 912 345 6789`,
-      telephone: `(02) 123 4567`,
+      mobile: `(+63) 915 793 6054`,
+      telephone: `8810 9956`,
     },
-    address: `B1, L-6 Doña Manuela Ave., Doña Manuela Subd., Pamplona 3, Las Pinas City`,
+    address: `2/F, B1, L-6 Doña Manuela Ave., Doña Manuela Subd., Pamplona 3, Las Pinas City`,
     map: `https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15453.921279293736!2d120.9782487!3d14.4570865!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e9597083afb6942!2sR.M.%20Mangubat%20Construction!5e0!3m2!1sen!2sph!4v1567173405861!5m2!1sen!2sph`,
     opening: {
       day: `Monday - Saturday`,
