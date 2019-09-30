@@ -2,7 +2,10 @@
   {
     "title": "2-Storey Residential House w/ Roofdeck and Multipurpose Hall",
     "slug": "2-storey-residence-with-roofdeck-and-malltipurpose-hall",
-    "category": ["construction", "interior design"],
+    "category": [
+      "construction",
+      "interior design"
+    ],
     "description": "Construction of Two (2) Storey Residentail House with Roofdeck. The building was built from a good quality materials and selected top brands. The Multipurpose Hall is located at the back of 2 storey House.",
     "img": {
       "src": [
@@ -24,7 +27,9 @@
   {
     "title": "Lease hold Improvement of APECO Manila Satelite Office at Philflex Building",
     "slug": "apeco",
-    "category": ["interior design"],
+    "category": [
+      "interior design"
+    ],
     "description": "Aurora Pacific Economic Zone and Freeport Authority",
     "img": {
       "src": [
@@ -47,7 +52,9 @@
   {
     "title": "Repair and Rehabilitation of Classrooms Cluster 1",
     "slug": "congretional-nhs",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair And Rehabilitation Of School Buildings - 14 Classrooms @ CONGRESSIONAL NATIONAL HIGH SCHOOL",
     "img": {
       "src": [
@@ -74,7 +81,9 @@
   {
     "title": "Repair and Rehabilitation of Classrooms Cluster 1",
     "slug": "jprizal",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair And Rehabilitation Of School Buildings - 4 Classrooms @ DR. JOSE P. RIZAL ELEMENTARY SCHOOL",
     "img": {
       "src": [
@@ -97,7 +106,9 @@
   {
     "title": "Repair and Rehabilitation of Classrooms Cluster 1",
     "slug": "paliparan-es",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair And Rehabilitation Of School Buildings - 4 Classrooms @ PALIPARAN ELEMENTARY SCHOOL",
     "img": {
       "src": [
@@ -118,7 +129,9 @@
   {
     "title": "Repair and Rehabilitation of Classrooms Cluster 2",
     "slug": "new-era-nhs",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair and Rehabilitation of School Buildings - 12 Classrooms @ NEW ERA NATIONAL HIGH SCHOOL",
     "img": {
       "src": [
@@ -140,7 +153,9 @@
   {
     "title": "Repair and Rehabilitation of Classrooms Cluster 2",
     "slug": "san-nicolas-es",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair and Rehabilitation of School Buildings - 22 Classrooms @ SAN NICOLAS ELEMENTARY SCHOOL",
     "img": {
       "src": [
@@ -165,7 +180,9 @@
   {
     "title": "Repair of Classroom Batch 1",
     "slug": "zapote-es",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "Repair of 36 classroom Aguilar Bldg. @ ZAPOTE ELEMENTARY SCHOOL",
     "img": {
       "src": [
@@ -179,9 +196,62 @@
     "address": "Gabaldon Bldg., Padre Diego Cera Ave., Real St., E. Aldana, Las Pinas City"
   },
   {
+    "title": "Conservation and Restoration of Gabaldon Building for Cluster III",
+    "slug": "cayetano",
+    "category": [
+      "repair"
+    ],
+    "description": "CAYETANO TOPACIO ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img10.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/cayetano/img11.jpg"
+      ]
+    },
+    "amount": "Php 2,331,718.23",
+    "duration": "45 Calendar days",
+    "completionDate": "Nov. 30, 2018",
+    "owner": "DepED Imus City",
+    "address": "Imus City"
+  },
+  {
+    "title": "Conservation and Restoration of Gabaldon Building for Cluster III",
+    "slug": "gov-dm",
+    "category": [
+      "repair"
+    ],
+    "description": "GOV. D.M. CAMERINO ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img10.jpg"
+      ]
+    },
+    "amount": "Php 1,216,659.91",
+    "duration": "45 Calendar days",
+    "completionDate": "Nov. 30, 2018",
+    "owner": "DepED Imus City",
+    "address": "Medicion II-A, Imus City"
+  },
+  {
     "title": "Renovation of Maria Fe Perez-Agudo Center for Leadership Excellence",
     "slug": "st-scholastica",
-    "category": ["repair"],
+    "category": [
+      "repair"
+    ],
     "description": "STA. SCHOLASTICA COLLEGE",
     "img": {
       "src": [
