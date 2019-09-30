@@ -222,6 +222,31 @@
     "address": "Imus City"
   },
   {
+    "title": "Conservation and Restoration of Gabaldon Building for Cluster III",
+    "slug": "gov-dm",
+    "category": [
+      "repair"
+    ],
+    "description": "GOV. D.M. CAMERINO ELEMENTARY SCHOOL",
+    "img": {
+      "src": [
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img1.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img2.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img3.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img4.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img5.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img8.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img9.jpg",
+        "https://rmmangubatconstructionandrealtydevcorp.com/images/projects/gov-dm/img10.jpg"
+      ]
+    },
+    "amount": "Php 1,216,659.91",
+    "duration": "45 Calendar days",
+    "completionDate": "Nov. 30, 2018",
+    "owner": "DepED Imus City",
+    "address": "Medicion II-A, Imus City"
+  },
+  {
     "title": "Renovation of Maria Fe Perez-Agudo Center for Leadership Excellence",
     "slug": "st-scholastica",
     "category": [
