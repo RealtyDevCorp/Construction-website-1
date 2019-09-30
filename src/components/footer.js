@@ -99,9 +99,9 @@ const Footer = ({ siteMetadata }) => {
             <Col className="footer-contact" lg="4" sm="6">
               <h4>Contacts</h4>
               <ul>
-                <li className='row className="align-items-start'>
+                {/* <li className='row className="align-items-start'>
                   <Smartphone /> {contact.mobile}
-                </li>
+                </li> */}
                 <li className='row className="align-items-start'>
                   <Telephone /> {contact.telephone}
                 </li>

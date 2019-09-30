@@ -163,7 +163,7 @@ const ContactPage = () => {
                     {contact.telephone}
                   </Row>
                 </section>
-                <section className="mobilephone border-bottom mb-4 pb-4">
+                {/* <section className="mobilephone border-bottom mb-4 pb-4">
                   <p className="text-uppercase font-weight-bold">
                     Mobile Phone
                   </p>
@@ -171,7 +171,7 @@ const ContactPage = () => {
                     <Smartphone className="stroke-svg stroke-color" />{" "}
                     {contact.mobile}
                   </Row>
-                </section>
+                </section> */}
                 <section className="email border-bottom mb-4 pb-4">
                   <p className="text-uppercase font-weight-bold">E-mail</p>
                   <Row className="ml-0">
