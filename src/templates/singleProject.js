@@ -62,7 +62,7 @@ const SingeProject = props => {
                 )}
               />
               <hr />
-              <List1 svg={<Bill />} title="Total Cost" value={amount} />
+                {/*<List1 svg={<Bill />} title="Total Cost" value={amount} />*/}
               <hr />
               <List1
                 svg={<Calendar />}
