@@ -30,7 +30,7 @@ module.exports = {
       position: `Web Developer`,
       email: `markdinopelonia447@gmail.com`,
       contact: `(+63) 946 290 9678`,
-      website: `https://markdino.github.io/portfolio`,
+      website: `https://markdino.com`,
     },
   },
   plugins: [
